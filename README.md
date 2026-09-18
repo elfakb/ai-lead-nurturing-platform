@@ -79,6 +79,7 @@ Emails are drafted using: lead segment, most recently engaged content, persona/t
 Lead form submitted → CRM entry created → Fit Score calculated → Engagement Score updates in real time → segment assigned → nurture sequence triggered (or direct sales handoff if Hot) → AI drafts next email → sales rep notified with full context + next-best-action at Hot threshold → outcome logged → **closed-won/lost feeds back into the scoring model**, compounding its accuracy over time.
 
 That feedback loop (step 8) is what makes this a learning system rather than a static automation tool. Full diagram in `workflow-diagram.png`.
+<img width="676" height="943" alt="image" src="https://github.com/user-attachments/assets/47326960-7d86-42a9-a915-f739a8dad376" />
 
 ---
 
